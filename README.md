@@ -931,6 +931,11 @@
     - HomeController Contact() Post메서드 신규 추가
     - 메일관련 작업 - Pendding
 
+
+#### MyPortfoli 게시판 작업
+
+<img src="./image/web100000.png" width="600">
+
 ## 11일차
 
 ### ASP.NET Core API서버(Web API)
